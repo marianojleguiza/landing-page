@@ -137,3 +137,56 @@ body
     margin-right: 300px;
     margin-bottom: 80px;
 }
+
+
+.fourthpart
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin: 100px auto;
+    padding: 50px 100px;
+}
+
+.third-container
+{
+    display: flex;
+    flex-direction: column;
+}
+.action
+{
+    color:white;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.sign
+{
+    color:#E5E7EB;
+    font-size: 18px;
+}
+.second-button
+{
+    border: 2px white solid;
+    color: white;
+    font-weight: 900;
+    padding: 7px 21px;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 12px;
+}
+
+.footer
+{
+    display: flex;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
