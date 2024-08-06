@@ -66,3 +66,74 @@ body
     background-color: gray;
     padding: 125px;
 }
+
+
+.secondpart
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+.second-title
+{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin-bottom: 50px;
+}
+
+.second-container
+{
+    display: flex;
+    gap: 50px;
+}
+.second-placeholder
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image
+{
+    width: 150px;
+    height: 150px;
+    border: 5px #3882F6 solid;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.card
+{
+    color: #E5E7EB;
+}
+
+
+.thirdpart
+{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.quote
+{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300px;
+    color: #1F2937;
+    margin-top: 80px;
+}
+
+.author
+{
+    color: #1F2937;
+    font-size: 18px;
+    font-weight: 900;
+    align-self: flex-end;
+    margin-right: 300px;
+    margin-bottom: 80px;
+}
